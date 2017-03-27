@@ -39,6 +39,8 @@ It also switches on the microphone attached to it ,so that if the visitor  wants
 The vibration sensors are placed on the windows of the house , Hence if in any case someone is intruding through window, the vibration sensor would get activated,which would send a signal to main Beagle-Bone via WiFi integrated on the CC3200.
 After receiving a signal from CC3200 module,the Beagle-Bone would send an alert message home owner's smart phone.
 
+![alt tag](https://github.com/mahavird/Door_defender/blob/master/Block_diagram.png)
+
 Power Efficient:  
 The motion sensor allows the camera to turn itself on and off at appropriate times. When the motion sensor detects movement, it will activate the camera’s functions immediately, and also alert your phone.
 
