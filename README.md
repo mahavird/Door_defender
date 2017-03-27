@@ -16,6 +16,8 @@ Why do you need Door Defender ?
 > Is my child safe while home alone?
 > Did someone actually let the dog out?
 
+![alt tag](https://github.com/mahavird/Door_defender/blob/master/Why_door_defender.png)
+
 Key Components Used In Device:
 1.Beagle bone Black
 2.USB Camera(720p)
